@@ -1,8 +1,9 @@
-# Formação Lógica de Programação - DIO.ME
+# Formação em Lógica de Programação - DIO.ME
 https://web.dio.me/track/formacao-logica-de-programacao
 
 ## 2️⃣ Calculadora de Partidas Rankeadas
-**O Que deve ser utilizado**
+
+### O Que deve ser utilizado
 
 - Variáveis
 - Operadores
