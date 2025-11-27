@@ -1,7 +1,7 @@
 # Formação Lógica de Programação - DIO.ME
 https://web.dio.me/track/formacao-logica-de-programacao
 
-## 2️⃣ Calculadora de partidas Rankeadas
+## 2️⃣ Calculadora de Partidas Rankeadas
 **O Que deve ser utilizado**
 
 - Variáveis
@@ -25,4 +25,4 @@ Crie uma função que recebe como parâmetro a quantidade de vitórias e derrota
 ### Saída
 
 Ao final deve se exibir uma mensagem:
-"O Herói tem de saldo de **{saldoVitorias}** está no nível de **{nivel}**"
+- "O Herói tem de saldo de **{saldoVitorias}** está no nível de **{nivel}**"
