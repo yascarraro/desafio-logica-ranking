@@ -1,5 +1,5 @@
 # Formação em Lógica de Programação - DIO.ME
-https://web.dio.me/track/formacao-logica-de-programacao
+- https://web.dio.me/track/formacao-logica-de-programacao
 
 ## 2️⃣ Calculadora de Partidas Rankeadas
 
